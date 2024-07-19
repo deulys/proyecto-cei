@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kook King</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="icon" type="image/svg" href="assets/icon.svg">
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      rel="stylesheet"
+    >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+HR+Lijeva:wght@100..400&display=swap" rel="stylesheet">
+    <script src="js/index.js" defer></script>
+  </head>
+  <body class="">
+    <header class="header">
+      <h1 class="header__nombre">
+        <!-- Imagen del logo SVG -->
+        <img
+          class="header__logo"
+          src="assets/kooking.svg"
+          alt="Logo Kook - King Recetas"
+          title="Logo Kook - King Recetas"
+        >
+      </h1>
+      <picture>
+         <!-- Versión WebP para pantallas pequeñas -->
+       <source srcset="assets/recetas/image-design/plato-marisco-400px.webp" type="image/webp" media="(max-width: 767px)">
+       <!-- Versión PNG para pantallas pequeñas -->
+       <source srcset="assets/recetas/image-design/plato-marisco-400px.png" type="image/png" media="(max-width: 767px)">
+       <!-- Versión WebP para pantallas medianas -->
+       <source srcset="assets/recetas/image-design/plato-marisco-600px.webp" type="image/webp" media="(min-width: 768px)">
+       <!-- Versión PNG para pantallas medianas -->
+       <source srcset="assets/recetas/image-design/plato-marisco-400px.png" type="image/png" media="(min-width: 768px)">    
+       <!-- Versión WebP para pantallas grandes -->
+       <source srcset="assets/recetas/image-design/Plato-marisco.webp" type="image/webp" media="(min-width: 1200px)">
+       <!-- Versión PNG para pantallas grandes -->
+       <source srcset="assets/recetas/image-design/plato-marisco.png" type="image/png" media="(min-width: 1200px)"> 
+       <img  class="header__topimg" src="assets/recetas/image-design/Plato-marisco.jpg" alt="Plato de mariscos" title="Plato de mariscos">
+    </picture>
+    <picture>
+      <!-- Versión WebP para pantallas pequeñas -->
+      <source srcset="assets/recetas/image-design/ramas-400px.webp" type="image/webp" media="(max-width: 767px)">
+      <!-- Versión PNG para pantallas pequeñas -->
+      <source srcset="assets/recetas/image-design/ramas-400px.png" type="image/png" media="(max-width: 767px)">
+      <!-- Versión WebP para pantallas medianas -->
+      <source srcset="assets/recetas/image-design/ramas-600px.webp" type="image/webp" media="(min-width: 768px)">
+      <!-- Versión PNG para pantallas medianas -->
+      <source srcset="assets/recetas/image-design/ramas-600px.png" type="image/png" media="(min-width: 768px)">    
+      <!-- Versión WebP para pantallas grandes -->
+      <source srcset="assets/recetas/image-design/ramas.webp" type="image/webp" media="(min-width: 1200px)">
+      <!-- Versión PNG para pantallas grandes -->
+      <source srcset="assets/recetas/image-design/ramas.png" type="image/png" media="(min-width: 1200px)"> 
+      <img class="header__topimgright" src="assets/recetas/image-design/ramas.jpg" alt="Hierbas" title="Hierbas para cocinar">
+    </picture>
+     
+
+      <div class="header__menu--icon" id="header__menu--icon">
+        <div class="header__bar1"></div>
+        <div class="header__bar2"></div>
+        <div class="header__bar3"></div>
+      </div>
+      <nav class="header__nav">
+        <ul class="header__menu" data-animation="diagonal">
+          <li class="header__item">
+            <a href="index.html"
+              >Inicio
+              <span class="header__border header__border--top"></span>
+              <span class="header__border header__border--right"></span>
+              <span class="header__border header__border--bottom"></span>
+              <span class="header__border header__border--left"></span>
+            </a>
+          </li>
+          <li class="header__item">
+            <a href="#recetas"
+              >Recetas
+              <span class="header__border header__border--top"></span>
+              <span class="header__border header__border--right"></span>
+              <span class="header__border header__border--bottom"></span>
+              <span class="header__border header__border--left"></span>
+            </a>
+          </li>
+          <li class="header__item">
+            <a href="#batidos"
+              >Batidos
+              <span class="header__border header__border--top"></span>
+              <span class="header__border header__border--right"></span>
+              <span class="header__border header__border--bottom"></span>
+              <span class="header__border header__border--left"></span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+     
+    </header>
+    <main>
+      <section class="carrousel" id="inicio">
+        <h2 class="carrousel__titulo">Últimas recetas</h2>
+        <!-- Se crea cantidad de elementos que se quiera para el carrousel -->
+        <div class="carrousel__elementos">
+          <article class="carrousel__elemento">
+            <picture>
+              <!-- Versión WebP para pantallas pequeñas -->
+              <source srcset="assets/recetas/curry-de-garbanzos-y-espinacas-400px.webp" type="image/webp" media="(max-width: 767px)">
+              <!-- Versión PNG para pantallas pequeñas -->
+              <source srcset="assets/recetas/curry-de-garbanzos-y-espinacas-400px.png" type="image/png" media="(max-width: 767px)">
+              <!-- Versión WebP para pantallas medianas -->
+              <source srcset="assets/recetas/curry-de-garbanzos-y-espinacas-600px.webp" type="image/webp" media="(min-width: 768px)">
+              <!-- Versión PNG para pantallas medianas -->
+              <source srcset="assets/recetas/curry-de-garbanzos-y-espinacas-600px.png" type="image/png" media="(min-width: 768px)">    
+              <!-- Versión WebP para pantallas grandes -->
+              <source srcset="assets/recetas/curry-de-garbanzos-y-espinacas.webp" type="image/webp" media="(min-width: 1200px)">
+              <!-- Versión PNG para pantallas grandes -->
+              <source srcset="assets/recetas/curry-de-garbanzos-y-espinacas.png" type="image/png" media="(min-width: 1200px)"> 
+              <img
+              src="assets/recetas/curry-de-garbanzos-y-espinacas.jpg"
+              alt="Curry de Garbanzos y Espinacas"
+              class="carrousel__img"
+              title="Curry de Garbanzos y Espinacas">
+            </picture>
+            
+            <div class="carrousel__descripcion">
+              <h3 class="carrousel__receta">Curry de Garbanzos y Espinacas</h3>
+              <p class="carrousel__parrafo">
+                El curry vegano de garbanzos y espinacas es un plato nutritivo y
+                lleno de sabor, ideal para quienes buscan una opción saludable y
+                deliciosa. Este curry combina la textura suave y cremosa de los
+                garbanzos cocidos con las espinacas frescas, creando una mezcla
+                rica en proteínas y vitaminas. Los ingredientes principales se
+                cocinan en una salsa aromática de leche de coco y especias como
+                el curry, comino y cúrcuma, que aportan un sabor profundo y
+                ligeramente picante. Perfecto para acompañar con arroz integral
+                o naan, este plato es una excelente opción para una comida
+                reconfortante y equilibrada.
+              </p>
+              <div class="carrousel__detalle">
+                <p class="carrousel__footer">
+                  Tipo de dieta: <strong>Almuerzo</strong>
+                </p>
+                <img
+                  class="carrousel__dieta"
+                  src="assets/iconos/vegano.svg"
+                  alt="Etiqueta Vegana">
+                <p class="carrousel__footer">Cocina internacional:</p>
+                <img
+                  class="carrousel__dieta"
+                  src="assets/iconos/india.svg"
+                  alt="Bandera India">
+              </div>
+              <a class="carrousel__btndetalle" href="/receta-y-preparacion.html?plato=curry-de-garbanzos-y-espinacas">Receta y preparación</a>
+            </div>
+          </article>
+          <article class="carrousel__elemento">
+            <picture>
+              <!-- Versión WebP para pantallas pequeñas -->
+              <source srcset="assets/recetas/frittata-di-verdure-400px.webp" type="image/webp" media="(max-width: 767px)">
+              <!-- Versión PNG para pantallas pequeñas -->
+              <source srcset="assets/recetas/frittata-di-verdure-400px.png" type="image/png" media="(max-width: 767px)">
+              <!-- Versión WebP para pantallas medianas -->
+              <source srcset="assets/recetas/frittata-di-verdure-600px.webp" type="image/webp" media="(min-width: 768px)">
+              <!-- Versión PNG para pantallas medianas -->
+              <source srcset="assets/recetas/frittata-di-verdure-600px.png" type="image/png" media="(min-width: 768px)">    
+              <!-- Versión WebP para pantallas grandes -->
+              <source srcset="assets/recetas/frittata-di-verdure.webp" type="image/webp" media="(min-width: 1200px)">
+              <!-- Versión PNG para pantallas grandes -->
+              <source srcset="assets/recetas/frittata-di-verdure.png" type="image/png" media="(min-width: 1200px)"> 
+              <img
+              src="assets/recetas/frittata-di-verdure.jpg"
+              alt="Frittata di Verdure"
+              class="carrousel__img"
+              title="Frittata di Verdure">
+            </picture>
+            <div class="carrousel__descripcion">
+              <h3 class="carrousel__receta">Frittata di Verdure</h3>
+              <div class="carrousel__linereceta"></div>
+              <p class="carrousel__parrafo">
+                La Frittata di Verdure es un desayuno vegetariano italiano
+                delicioso y nutritivo, perfecto para comenzar el día con
+                energía. Este plato combina huevos frescos con una variedad de
+                verduras de temporada como espinacas, pimientos, calabacines y
+                tomates cherry. Enriquecida con queso parmesano rallado y
+                hierbas aromáticas como albahaca y orégano, esta frittata es una
+                opción saludable y sabrosa que se cocina en una sartén hasta que
+                quede esponjosa y dorada. Ideal para acompañar con una rebanada
+                de pan integral y una taza de café italiano, la Frittata di
+                Verdure es un desayuno completo que te mantendrá satisfecho toda
+                la mañana.
+              </p>
+              <div class="carrousel__detalle">
+                <p class="carrousel__footer">
+                  Tipo de dieta: <strong>Desayuno</strong>
+                </p>
+                <img
+                  class="carrousel__dieta"
+                  src="assets/iconos/vegetariano.svg"
+                  alt="Etiqueta Vegetariana">
+                <p class="carrousel__footer">Cocina internacional:</p>
+                <img
+                  class="carrousel__dieta"
+                  src="assets/iconos/italia.svg"
+                  alt="Bandera Italiana">
+              </div>
+              <a class="carrousel__btndetalle" href="/receta-y-preparacion.html?plato=frittata-di-verdure">Receta y preparación</a>
+            </div>
+          </article>
+          <article class="carrousel__elemento">
+            <picture>
+              <!-- Versión WebP para pantallas pequeñas -->
+              <source srcset="assets/recetas/tangyuan-400px.webp" type="image/webp" media="(max-width: 767px)">
+              <!-- Versión PNG para pantallas pequeñas -->
+              <source srcset="assets/recetas/tangyuan-400px.png" type="image/png" media="(max-width: 767px)">
+              <!-- Versión WebP para pantallas medianas -->
+              <source srcset="assets/recetas/tangyuan-600px.webp" type="image/webp" media="(min-width: 768px)">
+              <!-- Versión PNG para pantallas medianas -->
+              <source srcset="assets/recetas/tangyuan-600px.png" type="image/png" media="(min-width: 768px)">    
+              <!-- Versión WebP para pantallas grandes -->
+              <source srcset="assets/recetas/tangyuan.webp" type="image/webp" media="(min-width: 1200px)">
+              <!-- Versión PNG para pantallas grandes -->
+              <source srcset="assets/recetas/tangyuan.png" type="image/png" media="(min-width: 1200px)"> 
+              <img
+              src="assets/recetas/tangyuan.jpg"
+              alt="Tangyuan"
+              class="carrousel__img"
+              title="Tangyuan">
+            </picture>
+            <img
+              src="assets/recetas/postres/Tangyuan.webp"
+              alt="Etiqueta Vegetariana"
+              class="carrousel__img">
+            <div class="carrousel__descripcion">
+              <h3 class="carrousel__receta">Tangyuan</h3>
+              <p class="carrousel__parrafo">
+                Tangyuan, también conocido como bolas de arroz glutinoso, es un
+                postre chino tradicional que se disfruta especialmente durante
+                el Festival de los Faroles y otras celebraciones festivas. Estos
+                deliciosos bocados están hechos de harina de arroz glutinoso, lo
+                que les da una textura suave y masticable. Los tangyuan pueden
+                rellenarse con una variedad de ingredientes dulces como pasta de
+                sésamo negro, pasta de frijol rojo, o crema de maní. Cocidos en
+                agua o caldo dulce, se sirven generalmente en un tazón con su
+                líquido de cocción, proporcionando un postre cálido y
+                reconfortante que simboliza la unidad y la armonía en la cultura
+                china.
+              </p>
+              <div class="carrousel__detalle">
+                <p class="carrousel__footer">
+                  Tipo de dieta: <strong>Postre</strong>
+                </p>
+                <p class="carrousel__footer">Cocina internacional:</p>
+                <img
+                  class="carrousel__dieta"
+                  src="assets/iconos/china.svg"
+                  alt="Bandera China">
+              </div>
+              <a class="carrousel__btndetalle" href="/receta-y-preparacion.html?plato=tangyuan">Receta y preparación</a>
+            </div>
+          </article>
+        </div>
+
+        <!-- Botones Siguiente y Anterior -->
+        <button class="carrousel__arrow carrousel__siguiente">
+          <img src="assets/btn1.png" alt="Submit">
+        </button>
+        <button class="carrousel__arrow carrousel__anterior">
+          <img src="assets/btn2.png" alt="Submit">
+        </button>
+
+        <!-- Botones -->
+
+        <ul class="carrousel__ul">
+          <li class="carrousel__li">
+            <button class="carrousel__btn carrousel__btn--active"></button>
+          </li>
+          <li class="carrousel__li">
+            <button class="carrousel__btn"></button>
+          </li>
+          <li class="carrousel__li">
+            <button class="carrousel__btn"></button>
+          </li>
+        </ul>
+      </section>
+
+      <!-- Mas Recetas -->
+      <section class="recetas" id="recetas">
+        <h2 class="recetas__titulo">Más recetas</h2>
+        <div class="recetas__container">
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=spaghetti-carbonara">
+            <article>                           
+                <h3>Spaghetti Carbonara</h3>                       
+            </article>
+          </a>
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=brownies-de-chocolate">
+            <article>
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/brownies-de-chocolate-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/brownies-de-chocolate-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/brownies-de-chocolate-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/brownies-de-chocolate-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/brownies-de-chocolate-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/brownies-de-chocolate-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/brownies-de-chocolate.jpg"
+                alt="Brownies de Chocolate"
+                class="recetas__img"
+                title="Brownies de Chocolate"
+                loading="lazy">
+              </picture>        
+                <h3>Brownies de Chocolate</h3>        
+            </article>
+          </a>
+          
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=pizza-casera">
+            <article>         
+              <h3 class="recetas__receta">Pizza Casera</h3>           
+          </article>
+          </a>
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=sopa-de-pollo">
+            <article>
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/sopa-de-pollo-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/sopa-de-pollo-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/sopa-de-pollo-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/sopa-de-pollo-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/sopa-de-pollo-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/sopa-de-pollo-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/sopa-de-pollo.jpg"
+                alt="Sopa de Pollo"
+                class="recetas__img"
+                title="Sopa de Pollo"
+                loading="lazy">
+              </picture>                         
+                <h3>Sopa de Pollo</h3>          
+            </article>
+          </a>
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=guacamole">
+            <article>                       
+              <h3>Guacamole</h3>          
+          </article>
+          </a>
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=tacos-de-carne-asada">
+            <article>
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/tacos-de-carne-asada-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/tacos-de-carne-asada-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/tacos-de-carne-asada-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/tacos-de-carne-asada-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/tacos-de-carne-asada-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/tacos-de-carne-asada-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/tacos-de-carne-asada.jpg"
+                alt="Tacos de Carne Asada"
+                class="recetas__img"
+                title="Tacos de Carne Asada"
+                loading="lazy">
+              </picture>            
+                <h3 class="recetas__receta">Tacos de Carne Asada</h3>           
+            </article>
+          </a>
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=pollo-tikka-masala">
+            <article>                
+              <h3 class="recetas__receta">Pollo Tikka Masala</h3>           
+            </article>
+          </a>
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=pad-thai">
+            <article>
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/pad-thai-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/pad-thai-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/pad-thai-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/pad-thai-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/pad-thai-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/pad-thai-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/pad-thai.jpg"
+                alt="Pad Thai"
+                class="recetas__img"
+                title="Pad Thai"
+                loading="lazy">
+              </picture>                      
+              <h3 class="recetas__receta">Pad Thai</h3>           
+            </article>
+          </a>
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=tiramisu">
+            <article">
+              <h3 class="recetas__receta">Tiramisu</h3>     
+            </article>
+          </a>
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=pancakes">
+            <article>
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/pancakes-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/pancakes-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/pancakes-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/pancakes-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/pancakes-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/pancakes-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/pancakes.jpg"
+                alt="Pancakes"
+                class="recetas__img"
+                title="Pancakes"
+                loading="lazy">
+              </picture>     
+              <h3 class="recetas__receta">Pancakes</h3> 
+            </article>
+          </a>          
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=hamburguesas-caseras">
+            <article>                       
+                <h3 class="recetas__receta">Hamburguesas Caseras</h3>
+            </article>
+          </a>
+          <a class="recetas__elemento" href="/receta-y-preparacion.html?plato=enchiladas-de-pollo">
+            <article>
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/enchiladas-de-pollo-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/enchiladas-de-pollo-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/enchiladas-de-pollo-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/enchiladas-de-pollo-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/enchiladas-de-pollo-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/enchiladas-de-pollo-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/enchiladas-de-pollo.jpg"
+                alt="Enchiladas de Pollo"
+                class="recetas__img"
+                title="Enchiladas de Pollo"
+                loading="lazy">
+              </picture>   
+              <h3 class="recetas__receta"> Enchiladas de Pollo</h3>          
+            </article>
+          </a>
+          
+        </div>
+      </section>
+
+      <!-- Batidos -->
+      <section class="batidos" id="batidos">
+        <div class="batidos__imgrelative">
+          <img
+            class="batidos__wave"
+            src="assets/efectos/wave.svg"
+            alt="Efecto wave"
+            loading="lazy">
+          <h2 class="batidos__titulo">Batidos mas populares</h2>
+        </div>
+
+        <div class="batidos__contenedor">
+          <article class="batidos__item">
+            <a class="batidos__link" href="/receta-y-preparacion.html?plato=banana-blueberry-smoothie">
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/banana-blueberry-smoothie-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/banana-blueberry-smoothie-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/banana-blueberry-smoothie-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/banana-blueberry-smoothie-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/banana-blueberry-smoothie-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/banana-blueberry-smoothie-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/banana-blueberry-smoothie.jpg"
+                alt="Banana Blueberry Smoothie"
+                class="batidos__img"
+                title="Banana Blueberry Smoothie"
+                loading="lazy">
+              </picture>              
+              <div class="batidos__nombres">
+                <h3>Banana Blueberry Smoothie</h3>
+              </div>
+            </a>
+          </article>
+          <article class="batidos__item">
+            <a class="batidos__link" href="/receta-y-preparacion.html?plato=peanut-butter-banana-smoothie">
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/peanut-butter-Banana-smoothie-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/peanut-butter-Banana-smoothie-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/peanut-butter-Banana-smoothie-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/peanut-butter-Banana-smoothie-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/peanut-butter-Banana-smoothie-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/peanut-butter-Banana-smoothie-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/peanut-butter-Banana-smoothie.jpg"
+                alt="Peanut Butter Banana Smoothie"
+                class="batidos__img"
+                title="Peanut Butter Banana Smoothie"
+                loading="lazy">
+              </picture> 
+
+              <div class="batidos__nombres">
+                <h3>Peanut Butter Banana Smoothie</h3>
+              </div>
+            </a>
+          </article>
+          <article class="batidos__item">
+            <a class="batidos__link" href="/receta-y-preparacion.html?plato=tropical-fruit-smoothie">
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/tropical-fruit-smoothie-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/tropical-fruit-smoothie-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/tropical-fruit-smoothie-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/tropical-fruit-smoothie-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/tropical-fruit-smoothie-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/tropical-fruit-smoothie-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/tropical-fruit-smoothie.jpg"
+                alt="Tropical Fruit Smoothie"
+                class="batidos__img"
+                title="Tropical Fruit Smoothie"
+                loading="lazy">
+              </picture>           
+
+              <div class="batidos__nombres">
+                <h3>Tropical Fruit Smoothie</h3>
+              </div>
+            </a>
+          </article>
+          <article class="batidos__item">
+            <a class="batidos__link" href="/receta-y-preparacion.html?plato=green-smoothie">
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/green-smoothie-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/green-smoothie-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/green-smoothie-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/green-smoothie-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/green-smoothie-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/green-smoothie-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/green-smoothie.jpg"
+                alt="Green Smoothie"
+                class="batidos__img"
+                title="Green Smoothie"
+                loading="lazy">
+              </picture>              
+
+              <div class="batidos__nombres">
+                <h3>Green Smoothie</h3>
+              </div>
+            </a>
+          </article>
+          <article class="batidos__item">
+            <a class="batidos__link" href="/receta-y-preparacion.html?plato=berry-smoothie">
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/berry-smoothie-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/berry-smoothie-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/berry-smoothie-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/berry-smoothie-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/berry-smoothie-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/berry-smoothie-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/berry-smoothie.jpg"
+                alt="Berry Smoothie"
+                class="batidos__img"
+                title="Berry Smoothie"
+                loading="lazy">
+              </picture>    
+
+              <div class="batidos__nombres">
+                <h3>Berry Smoothie</h3>
+              </div>
+            </a>
+          </article>
+          <article class="batidos__item">
+            <a class="batidos__link" href="/receta-y-preparacion.html?plato=avocado-banana-smoothie">
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/avocado-banana-smoothie-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/avocado-banana-smoothie-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/avocado-banana-smoothie-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/avocado-banana-smoothie-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/avocado-banana-smoothie-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/avocado-banana-smoothie-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/avocado-banana-smoothie.jpg"
+                alt="Avocado Banana Smoothie"
+                class="batidos__img"
+                title="Avocado Banana Smoothie"
+                loading="lazy">
+              </picture>
+              <div class="batidos__nombres">
+                <h3>Avocado Banana Smoothie</h3>
+              </div>
+            </a>
+          </article>
+          <article class="batidos__item">
+            <a class="batidos__link" href="/receta-y-preparacion.html?plato=pineapple-and-ginger-smoothie">
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/pineapple-and-ginger-smoothie-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/peanut-butter-Banana-smoothie-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/pineapple-and-ginger-smoothie-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/pineapple-and-ginger-smoothie-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/pineapple-and-ginger-smoothie-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/pineapple-and-ginger-smoothie-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/pineapple-and-ginger-smoothie.jpg"
+                alt="Pineapple and Ginger Smoothie"
+                class="batidos__img"
+                title="Pineapple and Ginger Smoothie"
+                loading="lazy">
+              </picture>
+              <div class="batidos__nombres">
+                <h3>Pineapple and Ginger Smoothie</h3>
+              </div>
+            </a>
+          </article>
+          <article class="batidos__item">
+            <a class="batidos__link" href="/receta-y-preparacion.html?plato=mango-raspberry-smoothie">
+              <picture>
+                <!-- Versión WebP para pantallas pequeñas -->
+                <source srcset="assets/recetas/mango-raspberry-smoothie-400px.webp" type="image/webp" media="(max-width: 767px)">
+                <!-- Versión JPG para pantallas pequeñas -->
+                <source srcset="assets/recetas/mango-raspberry-smoothie-400px.jpg" type="image/jpg" media="(max-width: 767px)">
+                <!-- Versión WebP para pantallas medianas -->
+                <source srcset="assets/recetas/mango-raspberry-smoothie-600px.webp" type="image/webp" media="(min-width: 768px)">
+                <!-- Versión JPG para pantallas medianas -->
+                <source srcset="assets/recetas/mango-raspberry-smoothie-600px.jpg" type="image/jpg" media="(min-width: 768px)">    
+                <!-- Versión WebP para pantallas grandes -->
+                <source srcset="assets/recetas/mango-raspberry-smoothie-800px.webp" type="image/webp" media="(min-width: 1200px)">
+                <!-- Versión JPG para pantallas grandes -->
+                <source srcset="assets/recetas/mango-raspberry-smoothie-800px.jpg" type="image/jpg" media="(min-width: 1200px)"> 
+                <img
+                src="assets/recetas/mango-raspberry-smoothie.jpg"
+                alt="Mango Raspberry Smoothie"
+                class="batidos__img"
+                title="Mango Raspberry Smoothie"
+                loading="lazy">
+              </picture>              
+
+              <div class="batidos__nombres">
+                <h3>Mango Raspberry Smoothie</h3>
+              </div>
+            </a>
+          </article>
+        </div>
+
+        <div></div>
+      </section>
+      <button id="goTopBtn" title="Ir Arriba"><img src="assets/iconos/arrow-up-outline.svg" alt="Flecha arriba"></button>
+    </main>
+    <footer class="footer">
+      <div class="footer_copy">
+        Copyright ©
+      </div>
+      <div class="footer__facebook"><img src="assets/iconos/facebook.svg" loading="lazy" alt="Logo Facebook"></div>
+      <div class="footer__instagram"><img src="assets/iconos/instagram.svg" loading="lazy" alt="Logo Instagram"></div>
+      <div class="footer__tiktok"><img src="assets/iconos/tiktok.svg" loading="lazy" alt="Logo tiktok"></div>
+
+    </footer>
+  </body>
+</html>

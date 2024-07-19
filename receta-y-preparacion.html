@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kook King</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="icon" type="image/svg" href="assets/icon.svg">
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      rel="stylesheet"
+    >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+HR+Lijeva:wght@100..400&display=swap" rel="stylesheet">
+    <script src="js/recetas.js" defer></script>
+  </head>
+  <body class="">
+    <header class="header">
+      <h1 class="header__nombre">
+        <img
+          class="header__logo"
+          src="assets/kooking.svg"
+          alt="Logo Kook - King Recetas"
+          title="Logo Kook - King Recetas"
+        >
+      </h1>
+
+      <picture>
+        <!-- Versión WebP para pantallas pequeñas -->
+      <source srcset="assets/recetas/image-design/plato-marisco-400px.webp" type="image/webp" media="(max-width: 767px)">
+      <!-- Versión PNG para pantallas pequeñas -->
+      <source srcset="assets/recetas/image-design/plato-marisco-400px.png" type="image/png" media="(max-width: 767px)">
+      <!-- Versión WebP para pantallas medianas -->
+      <source srcset="assets/recetas/image-design/plato-marisco-600px.webp" type="image/webp" media="(min-width: 768px)">
+      <!-- Versión PNG para pantallas medianas -->
+      <source srcset="assets/recetas/image-design/plato-marisco-400px.png" type="image/png" media="(min-width: 768px)">    
+      <!-- Versión WebP para pantallas grandes -->
+      <source srcset="assets/recetas/image-design/Plato-marisco.webp" type="image/webp" media="(min-width: 1200px)">
+      <!-- Versión PNG para pantallas grandes -->
+      <source srcset="assets/recetas/image-design/plato-marisco.png" type="image/png" media="(min-width: 1200px)"> 
+      <img  class="header__topimg" src="assets/recetas/image-design/Plato-marisco.jpg" alt="Plato de mariscos" title="Plato de mariscos">
+    </picture>
+    <picture>
+      <!-- Versión WebP para pantallas pequeñas -->
+      <source srcset="assets/recetas/image-design/ramas-400px.webp" type="image/webp" media="(max-width: 767px)">
+      <!-- Versión PNG para pantallas pequeñas -->
+      <source srcset="assets/recetas/image-design/ramas-400px.png" type="image/png" media="(max-width: 767px)">
+      <!-- Versión WebP para pantallas medianas -->
+      <source srcset="assets/recetas/image-design/ramas-600px.webp" type="image/webp" media="(min-width: 768px)">
+      <!-- Versión PNG para pantallas medianas -->
+      <source srcset="assets/recetas/image-design/ramas-600px.png" type="image/png" media="(min-width: 768px)">    
+      <!-- Versión WebP para pantallas grandes -->
+      <source srcset="assets/recetas/image-design/ramas.webp" type="image/webp" media="(min-width: 1200px)">
+      <!-- Versión PNG para pantallas grandes -->
+      <source srcset="assets/recetas/image-design/ramas.png" type="image/png" media="(min-width: 1200px)"> 
+      <img class="header__topimgright" src="assets/recetas/image-design/ramas.jpg" alt="Hierbas" title="Hierbas para cocinar">
+    </picture>
+
+      <div class="header__menu--icon" id="header__menu--icon">
+        <div class="header__bar1"></div>
+        <div class="header__bar2"></div>
+        <div class="header__bar3"></div>
+      </div>
+      <nav class="header__nav">
+        <ul class="header__menu">
+          <li class="header__item">
+            <a href="index.html"
+              >Inicio
+              <span class="header__border header__border--top"></span>
+              <span class="header__border header__border--right"></span>
+              <span class="header__border header__border--bottom"></span>
+              <span class="header__border header__border--left"></span>
+            </a>
+          </li>
+          <li class="header__item">
+            <a href="index.html#recetas"
+              >Recetas
+              <span class="header__border header__border--top"></span>
+              <span class="header__border header__border--right"></span>
+              <span class="header__border header__border--bottom"></span>
+              <span class="header__border header__border--left"></span>
+            </a>
+          </li>         
+          <li class="header__item">
+            <a href="index.html#batidos"
+              >Batidos
+              <span class="header__border header__border--top"></span>
+              <span class="header__border header__border--right"></span>
+              <span class="header__border header__border--bottom"></span>
+              <span class="header__border header__border--left"></span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+     
+    </header>
+    <main>
+      <section class="descripcion">
+        
+        <div class="descripcion__contenido">
+          <h2 class="descripcion__titulo"></h2>
+          
+          <picture id="descripcion__picture" class="descripcion__picture">           
+            <source id="descripcion__webp" srcset="" type="image/webp">          
+            <source id="descripcion__jpg" srcset="" type="image/jpg">         
+            <img id="descripcion__img"  class="descripcion__img" src="" alt="" title="">            
+          </picture>
+          
+          
+        <div class="descripcion__descripcion">
+          <div class="descripcion__tabs">
+            <ul class="descripcion__ul">
+                 <li class="descripcion__li">
+                      <button class="descripcion__btn isActive">Receta</button>
+                 </li>
+                 <li class="descripcion__li">
+                      <button class="descripcion__btn">Preparación</button>
+                 </li>
+                 <li class="descripcion__li">
+                  <button class="descripcion__btn">Tips</button>
+             </li>
+               </ul> 
+            <div class="descripcion__wrapper">
+                 <ul class="descripcion__texto isActive" id="descripcion__receta"></ul>
+                 <ul class="descripcion__texto" id="descripcion__preparacion"></ul>
+                 <ul class="descripcion__texto" id="descripcion__tips"></ul>
+            </div>
+          </div>
+         
+        </div>
+        </div>        
+      </section>    
+    </main>
+    <footer class="footer">
+      <div class="footer_copy">
+        Copyright ©
+      </div>
+      <div class="footer__facebook"><img src="assets/iconos/facebook.svg" loading="lazy" alt="Logo Facebook"></div>
+      <div class="footer__instagram"><img src="assets/iconos/instagram.svg" loading="lazy" alt="Logo Instagram"></div>
+      <div class="footer__tiktok"><img src="assets/iconos/tiktok.svg" loading="lazy" alt="Logo tiktok"></div>
+
+    </footer>
+  </body>
+</html>

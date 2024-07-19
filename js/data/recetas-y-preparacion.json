@@ -1,0 +1,859 @@
+[
+    {
+        "title": "Spaghetti Carbonara",
+        "ingredientes": [
+            "400 g de spaghetti",
+            "200 g de panceta o guanciale (puedes usar bacon si no encuentras panceta o guanciale)",
+            "3 yemas de huevo",
+            "1 huevo entero",
+            "100 g de queso Pecorino Romano rallado (puedes usar Parmigiano Reggiano si prefieres)",
+            "2 dientes de ajo (opcional)",
+            "Sal y pimienta negra recién molida al gusto"
+        ],
+        "preparacion": [
+            "Cocinar la pasta",
+            "En una olla grande, hierve agua con sal.",
+            "Añade los spaghetti y cocina según las instrucciones del paquete hasta que estén al dente.",
+            "Preparar la panceta o guanciale",
+            "Mientras la pasta se cocina, corta la panceta o guanciale en trozos pequeños.",
+            "En una sartén grande a fuego medio, cocina la panceta o guanciale hasta que esté dorada y crujiente. Si usas ajo, añádelo a la sartén para aromatizar, pero retíralo antes de agregar la pasta.",
+            "Retira la sartén del fuego una vez que la panceta esté lista.",
+            "Preparar la mezcla de huevo y queso",
+            "En un bol grande, bate las yemas de huevo, el huevo entero y el queso rallado hasta que se integren bien.",
+            "Añade una generosa cantidad de pimienta negra molida a la mezcla de huevo y queso.",
+           "Combinar todo",
+            "Reserva una taza del agua de cocción de la pasta.",
+            "Escurre los spaghetti y agrégalos inmediatamente a la sartén con la panceta, mezclando bien para que los sabores se combinen.",
+            "Añade lentamente la mezcla de huevo y queso a los spaghetti, removiendo constantemente para evitar que el huevo se cuaje. El calor residual de la pasta cocinará ligeramente los huevos, creando una salsa cremosa.",
+            "Si la mezcla está demasiado espesa, añade un poco del agua de cocción de la pasta hasta obtener la consistencia deseada.",
+            "Servir",
+            "Sirve inmediatamente, espolvoreando un poco más de queso rallado y pimienta negra si lo deseas."          
+        ],
+        "tips": [
+            "Usa queso Pecorino Romano para una versión más auténtica, pero el Parmigiano Reggiano también funciona bien.",
+            "La calidad de la panceta o guanciale marca una gran diferencia en el sabor final del plato.",
+            "No cocines la mezcla de huevo a fuego directo, ya que esto hará que los huevos se cuajen en lugar de formar una salsa cremosa."
+        ]
+    },
+    {
+        "title": "Brownies de Chocolate",
+        "ingredientes": [
+            "200 g de chocolate negro",
+            "150 g de mantequilla",
+            "250 g de azúcar",
+            "3 huevos",
+            "100 g de harina",
+            "1 cucharadita de extracto de vainilla",
+            "1 pizca de sal",
+            "100 g de nueces (opcional)"
+        ],
+        "preparacion": [
+            "Precalentar el horno",
+            "Precalienta el horno a 180°C (350°F).",
+            "Engrasa un molde para hornear y cúbrelo con papel pergamino.",          
+            "Derretir el chocolate y la mantequilla",
+            "En un recipiente resistente al calor, derrite el chocolate y la mantequilla a baño maría o en el microondas, revolviendo hasta obtener una mezcla homogénea.",
+            "Deja enfriar ligeramente.",
+            "Preparar la mezcla de brownie",
+            "En un bol grande, bate los huevos con el azúcar hasta que la mezcla esté suave y esponjosa.",
+            "Añade el extracto de vainilla y la pizca de sal.",
+            "Incorpora el chocolate derretido y mezcla bien.",
+            "Añade la harina tamizada y mezcla hasta que esté completamente incorporada.",
+            "Si decides añadir nueces, incorpóralas en este momento.",
+            "Hornear",            
+            "Vierte la mezcla en el molde preparado y alisa la superficie.",
+            "Hornea durante 25-30 minutos, o hasta que un palillo insertado en el centro salga con algunas migas húmedas.",
+            "No hornees en exceso para asegurar que los brownies queden húmedos por dentro.",
+            "Enfriar y servir",
+            "Deja enfriar completamente en el molde antes de cortarlos en cuadrados.",
+            "Sirve y disfruta."
+        ],
+        "tips": [
+            "Utiliza chocolate negro de buena calidad para obtener mejores resultados.",
+            "Puedes añadir chips de chocolate o diferentes tipos de nueces a la mezcla para variar el sabor y la textura.",
+            "Guarda los brownies en un recipiente hermético para mantener su frescura por varios días."
+        ]
+    },
+    {
+        "title": "Pizza Casera",
+        "ingredientes": [
+            "500 g de harina de trigo",
+            "325 ml de agua tibia",
+            "2 cucharaditas de sal",
+            "1 cucharadita de azúcar",
+            "2 cucharadas de aceite de oliva",
+            "7 g de levadura seca activa",
+            "200 g de salsa de tomate",
+            "300 g de mozzarella rallada",
+            "Ingredientes adicionales al gusto (pepperoni, champiñones, pimientos, etc.)"
+        ],
+        "preparacion": [
+            "Preparar la masa",            
+            "En un bol grande, mezcla la harina y la sal.",
+            "En otro bol, disuelve la levadura y el azúcar en el agua tibia y deja reposar durante 5-10 minutos hasta que esté espumosa.",
+            "Añade el aceite de oliva a la mezcla de levadura.",
+            "Vierte la mezcla líquida sobre la harina y mezcla hasta formar una masa.",
+            "Amasa durante unos 10 minutos hasta que la masa esté suave y elástica.",
+            "Dejar reposar la masa",
+            "Forma una bola con la masa y colócala en un bol ligeramente aceitado.",
+            "Cubre con un paño húmedo y deja reposar en un lugar cálido durante aproximadamente 1-2 horas, o hasta que la masa haya duplicado su tamaño.",
+            "Precalentar el horno",
+            "Precalienta el horno a 220°C (430°F).",
+            "Formar la pizza",
+            "Golpea la masa para sacar el aire y divídela en dos partes si prefieres hacer dos pizzas más pequeñas.",
+            "En una superficie ligeramente enharinada, estira la masa con un rodillo o con las manos hasta alcanzar el grosor deseado.",
+            "Coloca la masa en una bandeja de horno ligeramente aceitada o en una piedra para pizza.",
+            "Añadir los ingredientes",
+            "Extiende una capa de salsa de tomate sobre la base de la pizza.",
+            "Espolvorea la mozzarella rallada por encima.",
+            "Añade los ingredientes adicionales de tu elección.",
+            "Hornear",            
+            "Hornea durante 10-15 minutos, o hasta que la masa esté dorada y el queso burbujeante y dorado.",
+            "Retira del horno y deja enfriar ligeramente antes de cortar y servir."
+        ],
+        "tips": [
+            "Para una masa más crujiente, usa una piedra para pizza y precalienta en el horno antes de colocar la masa.",
+            "Puedes experimentar con diferentes tipos de harina, como harina integral o harina de espelta, para variar el sabor y la textura de la masa.",
+            "Si no tienes levadura seca activa, puedes usar levadura fresca. La proporción es de aproximadamente 21 g de levadura fresca por cada 7 g de levadura seca activa."
+        ]
+    },
+    {
+        "title": "Sopa de Pollo",
+        "ingredientes": [
+            "1 pollo entero o 4 pechugas de pollo",
+            "2 litros de agua",
+            "2 zanahorias, peladas y picadas",
+            "2 tallos de apio, picados",
+            "1 cebolla, picada",
+            "2 dientes de ajo, picados",
+            "1 hoja de laurel",
+            "1 ramita de tomillo",
+            "Sal al gusto",
+            "Pimienta al gusto",
+            "Fideos o arroz (opcional)",
+            "Perejil fresco, picado (para decorar)"
+        ],
+        "preparacion": [
+             "Preparar el caldo",
+            "En una olla grande, añade el pollo y el agua.",
+            "Lleva a ebullición, reduce el fuego y cocina a fuego lento durante aproximadamente 1 hora, desespumando la superficie según sea necesario.",
+            "Añadir vegetales",            
+            "Retira el pollo de la olla y desmenúzalo en trozos más pequeños.",
+            "Añade las zanahorias, el apio, la cebolla, el ajo, la hoja de laurel y el tomillo al caldo.",
+            "Cocina a fuego lento durante 20-30 minutos o hasta que los vegetales estén tiernos.",
+            "Añadir el pollo desmenuzado",            
+             "Devuelve el pollo desmenuzado a la olla.",
+            "Añade sal y pimienta al gusto.",
+            "Si decides usar fideos o arroz, añádelos y cocina según las instrucciones del paquete.",
+             "Servir",            
+            "Retira la hoja de laurel y la ramita de tomillo.",
+            "Sirve caliente en tazones y decora con perejil fresco picado."
+    
+        ],
+        "tips": [
+            "Para un caldo más rico, usa partes de pollo con hueso.",
+            "Puedes añadir otros vegetales como nabos o chirivías para variar el sabor.",
+            "Si prefieres una sopa más ligera, cuela el caldo antes de añadir los vegetales y el pollo desmenuzado."
+        ]
+    },
+    {
+        "title": "Guacamole",
+        "ingredientes": [
+            "3 aguacates maduros",
+            "1 tomate pequeño, picado",
+            "1/2 cebolla roja, picada",
+            "1 jalapeño, sin semillas y picado",
+            "2 dientes de ajo, picados",
+            "1/4 taza de cilantro fresco, picado",
+            "1 limón, exprimido",
+            "Sal al gusto",
+            "Pimienta al gusto"
+        ],
+        "preparacion": [
+             "Preparar los ingredientes",            
+            "Corta los aguacates por la mitad, quita el hueso y saca la pulpa con una cuchara.",
+            "Coloca la pulpa de aguacate en un bol grande y aplástala con un tenedor o un machacador hasta obtener una consistencia suave o ligeramente grumosa, según tu preferencia.",
+             "Mezclar los ingredientes",            
+            "Añade el tomate, la cebolla roja, el jalapeño, el ajo y el cilantro al aguacate machacado.",
+            "Exprime el jugo de limón sobre la mezcla.",
+            "Mezcla bien todos los ingredientes hasta que estén completamente combinados.",
+             "Ajustar el sabor",            
+            "Añade sal y pimienta al gusto.",
+            "Prueba y ajusta el sazón según sea necesario, añadiendo más jugo de limón, sal o pimienta.",
+             "Servir",            
+            "Sirve el guacamole inmediatamente con totopos, tortillas de maíz o como acompañamiento de tus platos favoritos.",
+            "Si no vas a servir el guacamole de inmediato, cúbrelo con plástico de manera que toque la superficie del guacamole para evitar que se oxide y guárdalo en el refrigerador."
+        ],
+        "tips": [
+            "Utiliza aguacates maduros para un guacamole más cremoso.",
+            "Si no te gusta el jalapeño, puedes omitirlo o sustituirlo por un pimiento más suave.",
+            "Para un sabor adicional, puedes añadir un poco de comino en polvo."
+        ]
+    },
+    {
+        "title": "Tacos de Carne Asada",
+        "ingredientes": [
+            "500g de carne de res (preferiblemente de corte como arrachera o flank steak)",
+            "1 cebolla grande, cortada en rodajas",
+            "1/4 taza de cilantro fresco, picado",
+            "2 limones, exprimidos",
+            "1-2 chiles jalapeños, picados (opcional)",
+            "Sal al gusto",
+            "Pimienta al gusto",
+            "Tortillas de maíz",
+            "Salsa de tu elección (verde, roja, o guacamole)"
+            ],
+            "preparacion": [
+                "Marinar la Carne:",
+                "Coloca los 500g de carne de res en un recipiente grande.",
+                "Agrega el jugo de los 2 limones, sal y pimienta al gusto, y los chiles jalapeños picados (si los estás usando).",
+                "Mezcla bien para que la carne esté bien cubierta con los ingredientes.",
+                "Deja marinar por al menos 30 minutos, o hasta 2 horas para un mejor sabor.",
+                "Asar la Carne y la Cebolla:",
+                "Calienta una parrilla o sartén a fuego medio-alto.",
+                "Unta un poco de aceite vegetal en la parrilla/sartén.",
+                "Asa la carne durante unos 4-5 minutos por cada lado, o hasta que esté cocida a tu gusto.",
+                "Asa también las rodajas de cebolla hasta que estén suaves y ligeramente caramelizadas.",
+                "Calentar las Tortillas:",
+                "Calienta las tortillas de maíz en una sartén sin aceite, volteándolas ocasionalmente hasta que estén calientes y flexibles.",
+                "Cortar la Carne:",
+                "Retira la carne de la parrilla/sartén y deja reposar por unos minutos.",
+                "Corta la carne en tiras finas o en trozos pequeños.",
+                "Armar los Tacos:",
+                "Coloca un poco de carne en cada tortilla caliente.",
+                "Añade cebolla asada, cilantro fresco picado, y un poco de salsa de tu elección.",
+                "Puedes agregar más jugo de limón al gusto.",
+                "Servir:",
+                "Sirve los tacos inmediatamente mientras están calientes."
+                            
+        ],
+        "tips": [
+            "Para una carne más tierna, deja marinar la carne durante la noche.",
+            "Puedes agregar otras guarniciones como aguacate, queso fresco o crema mexicana a tus tacos.",
+            "Si no tienes una parrilla, puedes cocinar la carne en una sartén caliente."
+        ]
+    },
+    {
+        "title": "Pollo Tikka Masala",
+        "ingredientes":  [
+            "500g de pechugas de pollo, cortadas en trozos",
+            "1 taza de yogur natural",
+            "2 cucharadas de jugo de limón",
+            "2 cucharaditas de comino molido",
+            "2 cucharaditas de cilantro molido",
+            "2 cucharaditas de pimentón",
+            "1 cucharadita de cúrcuma",
+            "1 cucharadita de garam masala",
+            "1 cucharadita de chile en polvo (opcional, según el nivel de picante deseado)",
+            "4 dientes de ajo, picados",
+            "1 trozo de jengibre fresco (2 cm), picado",
+            "1 cebolla grande, picada",
+            "400g de tomate triturado (puede ser de lata)",
+            "1 taza de nata (crema de leche) o leche de coco",
+            "2 cucharadas de aceite vegetal",
+            "Sal al gusto",
+            "Cilantro fresco picado para decorar",
+            "Arroz basmati para servir"
+        ],         
+           
+        "preparacion": [
+            "En un tazón grande, mezcla el yogur, jugo de limón, comino, cilantro, pimentón, cúrcuma, garam masala y chile en polvo.",
+            "Añade los trozos de pollo a la mezcla y asegúrate de que estén bien cubiertos. Cubre el tazón y deja marinar en el refrigerador durante al menos 1 hora, o toda la noche para un mejor sabor.",
+            "Calienta el aceite vegetal en una sartén grande a fuego medio-alto.",
+            "Añade la cebolla picada y sofríe hasta que esté dorada y suave.",
+            "Agrega el ajo y el jengibre picados y cocina por unos minutos hasta que estén fragantes.",
+            "Incorpora los tomates triturados y cocina a fuego lento durante unos 10 minutos, removiendo ocasionalmente.",
+            "Mientras la salsa se cocina, en otra sartén, cocina los trozos de pollo marinado hasta que estén dorados por todos lados. No es necesario cocinarlos completamente, ya que se terminarán de cocinar en la salsa.",
+            "Añade el pollo dorado a la sartén con la salsa de tomate.",
+            "Vierte la nata (crema de leche) o leche de coco en la sartén y mezcla bien. Cocina a fuego lento durante unos 20-30 minutos, hasta que el pollo esté completamente cocido y la salsa se haya espesado.",
+            "Ajusta la sal al gusto y decora con cilantro fresco picado.",
+            "Sirve el Pollo Tikka Masala caliente con arroz basmati."
+        ],
+        "tips": [
+            "Asegúrate de no cocinar demasiado el pollo para que no quede seco.",
+            "Si prefieres una salsa más picante, aumenta la cantidad de pimienta de cayena o añade chiles picados.",
+            "Puedes ajustar las especias según tu preferencia personal."
+        ]
+    },
+{
+    "title": "Pad Thai",
+    "ingredientes": [
+        "200g de fideos de arroz",
+        "2 pechugas de pollo, cortadas en tiras delgadas",
+        "150g de camarones pelados y desvenados",
+        "2 huevos",
+        "1 taza de brotes de soja (frijol mungo)",
+        "1 cebolla morada pequeña, finamente picada",
+        "2 dientes de ajo, picados",
+        "1 chile rojo fresco, picado (opcional)",
+        "3 cucharadas de salsa de tamarindo",
+        "3 cucharadas de salsa de pescado",
+        "3 cucharadas de azúcar morena",
+        "1 limón cortado en cuartos",
+        "1/2 taza de maní tostado y picado",
+        "Aceite de cacahuete o aceite vegetal",
+        "Cilantro fresco para decorar",
+        "Limón para servir"
+    ],
+    "preparacion": [
+        "Preparar los fideos",        
+        "Cocina los fideos de arroz según las instrucciones del paquete. Escúrrelos y enjuágalos bajo agua fría para detener la cocción. Reserva.",
+        "Preparar la salsa",
+        "En un bol pequeño, mezcla la salsa de tamarindo, la salsa de pescado y el azúcar morena hasta que el azúcar se disuelva por completo. Reserva.","Saltear los ingredientes",
+        "Calienta una sartén grande o wok a fuego medio-alto. Añade un poco de aceite y saltea el ajo picado y el chile rojo (si se usa) durante 1 minuto.",
+        "Cocinar el pollo y los camarones",
+        "Añade las tiras de pollo a la sartén y cocina hasta que estén doradas y cocidas, aproximadamente 5-7 minutos.",
+        "Agrega los camarones y cocina por 2-3 minutos más, hasta que estén rosados y cocidos.",
+        "Incorporar los huevos y los fideos",        
+        "Empuja los ingredientes en la sartén hacia un lado. Vierte los huevos batidos en el espacio vacío de la sartén y revuelve hasta que estén cocidos y revueltos.",
+        "Añade los fideos de arroz cocidos y mezcla todo bien.",
+        "Agregar la salsa y los brotes de soja",
+        "Vierte la salsa preparada sobre los fideos y mezcla para cubrir uniformemente.",
+        "Agrega los brotes de soja y la cebolla morada picada. Cocina por 2-3 minutos más, revolviendo constantemente.",
+        "Servir",        
+        "Sirve el Pad Thai caliente, decorado con maní picado, cilantro fresco y rodajas de limón.",
+        "Acompaña con más limón y salsa de chile al gusto."
+         
+    ],
+    "tips": [
+        "Puedes ajustar la cantidad de chile rojo según tu tolerancia al picante.",
+        "Para una versión vegetariana, puedes omitir el pollo y los camarones, o sustituirlos por tofu.",
+        "Si no encuentras salsa de tamarindo, puedes hacerla mezclando pulpa de tamarindo con agua caliente y colándola."
+    ]
+},
+{
+    "title": "Tiramisu",
+    "ingredientes": [
+        "500g de queso mascarpone",
+        "5 huevos, separadas las yemas de las claras",
+        "150g de azúcar",
+        "200ml de café espresso, enfriado",
+        "200ml de licor de café (opcional)",
+        "1 paquete de bizcochos de soletilla (o savoiardi)",
+        "Cacao en polvo para espolvorear",
+        "Chocolate negro rallado para decorar"
+    ],
+    "preparacion": [
+        "Preparar la crema de mascarpone",        
+        "En un bol grande, mezcla las yemas de huevo con el azúcar hasta obtener una mezcla cremosa y blanquecina.",
+        "Añade el queso mascarpone y mezcla hasta que esté suave y bien combinado.",
+        "Montar las claras a punto de nieve",
+        "En otro bol limpio, bate las claras de huevo a punto de nieve con una pizca de sal hasta que formen picos suaves.",
+        "Incorporar las claras a la mezcla de mascarpone",        
+        "Con movimientos envolventes, incorpora las claras montadas a la mezcla de mascarpone y yemas hasta obtener una crema homogénea.",
+        "Armar el tiramisú",        
+        "En un plato hondo o bandeja, mezcla el café espresso con el licor de café (si se usa).",
+        "Sumerge rápidamente los bizcochos de soletilla en la mezcla de café y licor y colócalos en una capa en el fondo del recipiente.",
+        "Cubre los bizcochos con una capa de la crema de mascarpone.",
+        "Repite el proceso, alternando capas de bizcochos y crema de mascarpone, hasta terminar con una capa de crema.",
+        "Espolvorea generosamente con cacao en polvo y chocolate negro rallado.",
+        "Refrigerar",
+        "Cubre el tiramisú con papel film y déjalo reposar en el refrigerador durante al menos 4 horas, o idealmente durante la noche, para que los sabores se mezclen y los bizcochos se empapen bien.",
+        "Servir",
+        "Sirve frío y disfruta de este delicioso postre italiano."
+    ],
+    "tips": [
+        "Para un tiramisú más ligero, puedes usar claras de huevo batidas en lugar de crema de mascarpone.",
+        "El licor de café es opcional, pero agrega un rico sabor al tiramisú.",
+        "Asegúrate de usar café espresso fuerte para empapar los bizcochos, para que el sabor sea más pronunciado."
+    ]
+},
+{
+    "title": "Pancakes",
+    "ingredientes": [
+        "1 taza (125g) de harina",
+        "1 cucharada de azúcar",
+        "1 cucharadita de polvo de hornear",
+        "1/2 cucharadita de bicarbonato de sodio",
+        "1/4 cucharadita de sal",
+        "1 huevo",
+        "1 taza (240ml) de leche",
+        "2 cucharadas de mantequilla derretida (o aceite)",
+        "1 cucharadita de extracto de vainilla (opcional)"
+    ],
+    "preparacion": [
+         "Mezclar ingredientes secos",
+         "En un bol grande, tamiza la harina junto con el azúcar, el polvo de hornear, el bicarbonato de sodio y la sal. Mezcla bien.",
+         "Preparar la mezcla líquida",
+         "En otro bol, bate el huevo ligeramente. Añade la leche, la mantequilla derretida (o aceite) y el extracto de vainilla (si se usa). Mezcla bien.",
+         "Combinar ingredientes",
+         "Vierte la mezcla líquida sobre los ingredientes secos y mezcla hasta que estén bien combinados. No sobre mezcles; la masa debe estar un poco grumosa.",
+         "Calentar la sartén",
+         "Calienta una sartén grande o plancha a fuego medio. Unta con un poco de mantequilla o aceite para cocinar los pancakes.",
+         "Cocinar los pancakes",        
+        "Vierte aproximadamente 1/4 de taza de masa por cada pancake en la sartén caliente.",
+        "Cocina hasta que aparezcan burbujas en la superficie y los bordes estén firmes, luego voltea y cocina el otro lado hasta que esté dorado.",
+        "Servir",
+        "Sirve los pancakes calientes con tu jarabe, miel o toppings favoritos."
+    ],
+    "tips": [
+        "Para pancakes más esponjosos, no mezcles la masa demasiado. Deja que algunas grumos pequeños queden en la mezcla.",
+        "Puedes añadir frutas frescas, chips de chocolate o nueces a la masa antes de cocinar los pancakes.",
+        "Si no tienes mantequilla derretida, puedes usar aceite vegetal."
+    ]
+},
+{
+    "title": "Hamburguesas Caseras",
+    "ingredientes": [
+        "500g de carne molida (preferiblemente mezcla de carne de res y cerdo)",
+        "1 huevo",
+        "1/2 taza de pan rallado",
+        "1 cucharadita de mostaza",
+        "1 cucharadita de salsa Worcestershire",
+        "1/2 cucharadita de sal",
+        "1/2 cucharadita de pimienta negra molida",
+        "1 cucharada de aceite de oliva (para cocinar)",
+        "4 panes de hamburguesa",
+        "Lechuga, tomate, cebolla y otros toppings al gusto"
+    ],
+    "preparacion": [
+        "Preparar la mezcla de hamburguesa",
+        "En un bol grande, mezcla la carne molida con el huevo, el pan rallado, la mostaza, la salsa Worcestershire, la sal y la pimienta. Mezcla bien hasta que todos los ingredientes estén incorporados.",
+        "Formar las hamburguesas",
+        "Divide la mezcla en 4 porciones iguales y forma cada una en una hamburguesa del tamaño deseado. Presiona ligeramente en el centro de cada hamburguesa para evitar que se hinchen durante la cocción.",
+        "Cocinar las hamburguesas",
+        "Calienta una sartén grande a fuego medio-alto y añade el aceite de oliva.",
+        "Cocina las hamburguesas durante aproximadamente 4-5 minutos por cada lado, o hasta que estén doradas y cocidas completamente.",
+        "Montar las hamburguesas",        
+        "Tuesta ligeramente los panes de hamburguesa.",
+        "Coloca una hoja de lechuga en la base del pan, luego añade la hamburguesa cocida.",
+        "Agrega rodajas de tomate, cebolla y otros toppings al gusto.",
+        "Cubre con la parte superior del pan y sirve caliente."
+ 
+    ],
+    "tips": [
+        "Para hamburguesas más jugosas, elige carne molida con un poco de grasa.",
+        "No presiones demasiado las hamburguesas mientras se cocinan para evitar que pierdan jugosidad.",
+        "Puedes personalizar las hamburguesas con queso, tocino o cualquier otro ingrediente adicional."
+    ]
+},
+{
+    "title": "Enchiladas de Pollo",
+    "ingredientes": [
+        "2 pechugas de pollo cocidas y desmenuzadas",
+        "1 cebolla picada",
+        "2 dientes de ajo picados",
+        "1 lata (400g) de tomate triturado",
+        "1 lata (200g) de chiles verdes picados",
+        "1 cucharadita de comino",
+        "1 cucharadita de chile en polvo",
+        "Sal y pimienta al gusto",
+        "1/2 taza de cilantro fresco picado",
+        "8 tortillas de maíz",
+        "1 taza de queso rallado (cheddar, mozzarella o mezcla)"
+    ],
+    "preparacion": [
+        "Preparar el relleno de pollo",        
+        "En una sartén grande, saltea la cebolla y el ajo hasta que estén transparentes.",
+        "Añade el pollo desmenuzado, el tomate triturado, los chiles verdes picados, el comino, el chile en polvo, sal y pimienta. Cocina a fuego medio durante 10 minutos, revolviendo ocasionalmente.",
+        "Agrega el cilantro fresco picado y cocina por 2 minutos más. Retira del fuego y reserva.",
+        "Armar las enchiladas",        
+        "Precalienta el horno a 180°C (350°F).",
+        "Calienta las tortillas ligeramente en un comal o sartén.",
+        "Coloca una porción del relleno de pollo en el centro de cada tortilla. Enrolla y coloca en una bandeja para hornear engrasada, con el cierre hacia abajo.",
+        "Cubrir con salsa y queso",        
+        "Vierte la salsa restante sobre las enchiladas.",
+        "Espolvorea el queso rallado encima.",
+        "Hornea durante 20-25 minutos, o hasta que el queso esté burbujeante y dorado.",
+        "Servir",
+        "Sirve las enchiladas calientes, acompañadas de crema, guacamole y más cilantro fresco si lo deseas."
+     
+    ],
+    "tips": [
+        "Puedes usar tortillas de maíz o de harina según tu preferencia.",
+        "Añade un poco de crema agria o yogurt natural encima antes de servir para un toque extra de sabor.",
+        "Para un relleno más picante, añade chiles jalapeños o serranos al gusto."
+    ]
+},
+{
+    "title": "Tangyuan",
+    "ingredientes": [
+        "1 taza de harina de arroz glutinoso",
+        "1/2 taza de agua caliente",
+        "1/2 taza de pasta de sésamo dulce (o pasta de frijol rojo dulce, o cualquier relleno dulce de tu elección)",
+        "Agua (para hervir los tangyuan)",
+        "Azúcar al gusto (opcional, para el agua de cocción)"
+    ],
+    "preparacion": [
+        "En un bol, mezcla la harina de arroz glutinoso con agua caliente poco a poco hasta formar una masa suave y elástica.",
+        "Si la masa está demasiado seca, añade un poco más de agua; si está demasiado pegajosa, añade un poco más de harina.",
+        "Divide la masa en pequeñas porciones y forma bolitas.",
+        "Aplana cada bolita y coloca una pequeña cantidad de relleno en el centro.", 
+        "Cierra la masa alrededor del relleno y forma una bola asegurándote de que esté bien sellada.",
+        "Hierve agua en una olla grande.",
+        "Añade las bolas de masa al agua hirviendo y cocina hasta que floten, lo que generalmente tarda unos 3-5 minutos.",
+        "Opcionalmente, puedes añadir un poco de azúcar al agua de cocción para endulzarla.",
+        "Sirve los Tangyuan en un tazón con un poco del agua de cocción endulzada (si lo deseas) o en un jarabe dulce."
+     
+    ],
+    "tips": [
+        "Asegúrate de que el agua esté muy caliente cuando la agregues a la harina de arroz glutinoso. Esto ayuda a que la masa sea más suave y fácil de trabajar.",
+        "Si la masa se seca mientras trabajas, puedes humedecer tus manos con un poco de agua para evitar que se agriete.",
+        "Mantén las bolas de masa cubiertas con un paño húmedo mientras trabajas para evitar que se sequen.",
+        "Para un relleno más fácil de manejar, enfría la pasta de sésamo o frijol rojo en el refrigerador antes de usarla.",
+        "Si alguna bola de masa se rompe durante la cocción, retírala de la olla para evitar que el relleno se derrame y afecte las otras bolas.",
+        "Puedes variar los rellenos según tu preferencia, como usando chocolate, frutas secas o incluso rellenos salados.",
+        "Sirve los Tangyuan en un caldo dulce de jengibre para un sabor adicional. Simplemente hierve rodajas de jengibre con agua y azúcar para hacer el caldo.",
+        "Si te sobran Tangyuan, puedes congelarlos antes de cocinarlos. Colócalos en una bandeja para hornear en una sola capa, congélalos hasta que estén sólidos, y luego transfiérelos a una bolsa de congelación. Cocina directamente desde el congelador, añadiendo un par de minutos al tiempo de cocción.",
+        "Experimenta con colorantes naturales para darle color a la masa de Tangyuan. Por ejemplo, usa jugo de espinaca para verde o jugo de remolacha para rojo.",
+        "Asegúrate de que las bolas de masa estén bien selladas para evitar que el relleno se salga durante la cocción."
+    ]
+},
+{
+    "title": "Curry de Garbanzos y Espinacas",
+    "ingredientes": [
+        "2 cucharadas de aceite de oliva",
+        "1 cebolla grande, picada",
+        "3 dientes de ajo, picados",
+        "1 trozo de jengibre fresco (unos 2 cm), rallado",
+        "1 cucharada de curry en polvo",
+        "1 cucharadita de cúrcuma",
+        "1 cucharadita de comino molido",
+        "1 cucharadita de cilantro molido",
+        "1/2 cucharadita de pimentón",
+        "1 lata de tomates triturados (400 g)",
+        "1 lata de leche de coco (400 ml)",
+        "2 latas de garbanzos cocidos, escurridos y enjuagados (800 g en total)",
+        "200 g de espinacas frescas",
+        "Sal y pimienta al gusto",
+        "Jugo de 1 limón (opcional)",
+        "Cilantro fresco picado (para decorar)",
+        "Arroz basmati cocido (para servir)"
+    ],
+    "preparacion": [
+        "Calienta el aceite de oliva en una sartén grande a fuego medio. Añade la cebolla picada y sofríe hasta que esté transparente, unos 5-7 minutos.",
+        "Agrega el ajo picado y el jengibre rallado. Cocina por 1-2 minutos más hasta que estén fragantes.",
+        "Añade el curry en polvo, la cúrcuma, el comino, el cilantro molido y el pimentón. Cocina las especias durante 1-2 minutos para liberar sus sabores.",
+        "Incorpora los tomates triturados y cocina a fuego lento durante 5 minutos, permitiendo que los sabores se mezclen.",
+        "Vierte la leche de coco y mezcla bien. Lleva a ebullición, luego reduce el fuego y cocina a fuego lento durante 10 minutos.",
+        "Añade los garbanzos cocidos a la sartén y cocina por otros 5-10 minutos, hasta que estén bien calientes.",
+        "Incorpora las espinacas frescas y cocina hasta que se marchiten, unos 2-3 minutos.",
+        "Sazona con sal y pimienta al gusto. Si lo deseas, añade jugo de limón para darle un toque de acidez.",
+        "Sirve el curry de garbanzos y espinacas caliente, decorado con cilantro fresco picado, acompañado de arroz basmati cocido."
+     
+    ],
+    "tips": [
+        "Si prefieres un curry más espeso, puedes machacar algunos garbanzos con un tenedor antes de añadirlos a la sartén.",
+        "Para un sabor más profundo, cocina las especias en aceite caliente durante unos minutos antes de añadir la cebolla.",
+        "Usa garbanzos cocidos frescos en lugar de enlatados para un sabor y textura más frescos.",
+        "Añade más verduras al curry, como calabacín, pimientos rojos o zanahorias, para variar la textura y el sabor.",
+        "Ajusta el nivel de especias a tu gusto. Si prefieres un curry más picante, añade una guindilla o un poco de cayena.",
+        "Si usas espinacas congeladas, asegúrate de descongelarlas y escurrir el exceso de agua antes de añadirlas al curry.",
+        "Prepara una mayor cantidad y congela porciones individuales para tener comidas rápidas y fáciles para más adelante.",
+        "Añade una cucharada de azúcar moreno o miel si el curry resulta demasiado ácido por los tomates.",
+        "Sirve el curry con naan o pan plano para una experiencia más auténtica.",
+        "Decora con un poco de yogur natural o crema de coco para añadir cremosidad y suavizar el picante."
+    ]
+},{
+    "title": "Frittata di Verdure",
+    "ingredientes": [
+        "6 huevos grandes",
+        "1/4 taza de leche",
+        "1 cebolla mediana, picada",
+        "1 pimiento rojo, picado",
+        "1 calabacín pequeño, en rodajas finas",
+        "1 taza de espinacas frescas",
+        "1/2 taza de queso parmesano rallado",
+        "2 cucharadas de aceite de oliva",
+        "Sal y pimienta al gusto",
+        "Hierbas frescas picadas (perejil, albahaca, etc.) para decorar"
+    ],
+    "preparacion": [
+        "Precalienta el horno a 180°C (350°F).",
+        "En un bol grande, bate los huevos junto con la leche, la sal y la pimienta.",
+        "Calienta el aceite de oliva en una sartén grande apta para horno a fuego medio. Añade la cebolla y cocina hasta que esté transparente, unos 5 minutos.",
+        "Agrega el pimiento rojo y el calabacín. Cocina por otros 5-7 minutos hasta que las verduras estén tiernas.",
+        "Incorpora las espinacas y cocina hasta que se marchiten, aproximadamente 2 minutos.",
+        "Vierte la mezcla de huevos sobre las verduras en la sartén. Asegúrate de que las verduras estén distribuidas de manera uniforme.",
+        "Espolvorea el queso parmesano rallado por encima de la mezcla.",
+        "Cocina en la sartén durante unos 5 minutos, hasta que los bordes comiencen a cuajar.",
+        "Transfiere la sartén al horno precalentado y hornea durante 10-15 minutos, o hasta que la frittata esté completamente cuajada y dorada en la parte superior.",
+        "Retira del horno y deja enfriar durante unos minutos antes de cortar en porciones.",
+        "Decora con hierbas frescas picadas y sirve caliente o a temperatura ambiente."
+     
+    ],
+    "tips": [
+        "Utiliza una sartén antiadherente apta para horno para evitar que la frittata se pegue.",
+        "Puedes añadir otras verduras de tu elección como champiñones, espárragos o brócoli para variar la receta.",
+        "Asegúrate de no batir demasiado los huevos, ya que esto puede hacer que la frittata quede densa en lugar de esponjosa.",
+        "Si prefieres una frittata más cremosa, añade un poco de crema espesa en lugar de leche.",
+        "Para un sabor adicional, añade trozos de jamón, tocino o chorizo cocido a la mezcla de verduras.",
+        "Si no tienes queso parmesano, puedes usar otro tipo de queso rallado como mozzarella, cheddar o feta.",
+        "La frittata también se puede cocinar completamente en la estufa si no tienes un horno. Simplemente cocina a fuego lento con una tapa hasta que esté completamente cuajada.",
+        "Decora con rodajas de aguacate o una pizca de chile en polvo para un toque extra de sabor.",
+        "La frittata es ideal para preparar con anticipación. Puedes guardarla en el refrigerador y recalentarla suavemente antes de servir.",
+        "Acompaña la frittata con una ensalada fresca o pan tostado para una comida completa."
+    ]
+},{
+    "title": "Banana Blueberry Smoothie",
+    "ingredientes": [
+        "1 plátano maduro",
+        "1 taza de arándanos frescos o congelados",
+        "1/2 taza de yogur griego",
+        "1 taza de leche (puedes usar leche de almendra, soja o cualquier otra leche que prefieras)",
+        "1 cucharada de miel o jarabe de arce (opcional, para endulzar)",
+        "1/2 cucharadita de extracto de vainilla (opcional)",
+        "Cubitos de hielo (opcional, para un batido más frío y espeso)"
+    ],
+    "preparacion": [
+        "Pela el plátano y córtalo en trozos.",
+        "Coloca el plátano, los arándanos, el yogur griego y la leche en una licuadora.",
+        "Si deseas un batido más dulce, añade la miel o el jarabe de arce, y el extracto de vainilla.",
+        "Añade cubitos de hielo si prefieres un batido más frío y espeso.",
+        "Licua todos los ingredientes hasta obtener una mezcla suave y homogénea.",
+        "Prueba y ajusta el dulzor a tu gusto, añadiendo más miel o jarabe de arce si es necesario.",
+        "Vierte el batido en un vaso y sirve inmediatamente."
+     
+    ],
+    "tips": [
+        "Para un batido más cremoso, usa un plátano congelado. Simplemente corta el plátano en trozos y congélalos antes de hacer el batido.",
+        "Puedes añadir un puñado de espinacas frescas para incrementar el contenido de nutrientes sin afectar demasiado el sabor.",
+        "Si no tienes arándanos, puedes usar otras bayas como fresas, frambuesas o moras.",
+        "Añade una cucharada de mantequilla de almendra o de cacahuate para un extra de proteínas y sabor.",
+        "Para un batido más espeso y helado, añade más cubitos de hielo o usa más fruta congelada.",
+        "Prueba diferentes tipos de leche para encontrar la que más te guste, como leche de coco para un toque tropical.",
+        "Si prefieres un batido vegano, usa yogur de coco o de almendra en lugar de yogur griego.",
+        "Añade una cucharada de semillas de chía o de lino para aumentar el contenido de fibra y omega-3.",
+        "Para un batido menos calórico, omite la miel o el jarabe de arce y confía en la dulzura natural de la fruta.",
+        "Decora tu batido con unos pocos arándanos frescos, rodajas de plátano o una pizca de granola para una presentación atractiva."
+    ]
+},{
+    "title": "Peanut Butter Banana Smoothie",
+    "ingredientes": [
+        "1 plátano maduro",
+        "2 cucharadas de mantequilla de maní",
+        "1 taza de leche (puedes usar leche de almendra, soja, o cualquier otra leche que prefieras)",
+        "1/2 taza de yogur griego",
+        "1 cucharada de miel o jarabe de arce (opcional, para endulzar)",
+        "1/2 cucharadita de extracto de vainilla (opcional)",
+        "Cubitos de hielo (opcional, para un batido más frío y espeso)"
+    ],
+    "preparacion": [
+        "Pela el plátano y córtalo en trozos.",
+        "Coloca el plátano, la mantequilla de maní, el yogur griego y la leche en una licuadora.",
+        "Si deseas un batido más dulce, añade la miel o el jarabe de arce, y el extracto de vainilla.",
+        "Añade cubitos de hielo si prefieres un batido más frío y espeso.",
+        "Licua todos los ingredientes hasta obtener una mezcla suave y homogénea.",
+        "Prueba y ajusta el dulzor a tu gusto, añadiendo más miel o jarabe de arce si es necesario.",
+        "Vierte el batido en un vaso y sirve inmediatamente."
+     
+    ],
+    "tips": [
+        "Para un batido más cremoso, usa un plátano congelado. Simplemente corta el plátano en trozos y congélalos antes de hacer el batido.",
+        "Puedes añadir un puñado de espinacas frescas para incrementar el contenido de nutrientes sin afectar demasiado el sabor.",
+        "Si prefieres un batido más proteico, añade una cucharada de proteína en polvo de vainilla o chocolate.",
+        "Añade una cucharada de semillas de chía o de lino para aumentar el contenido de fibra y omega-3.",
+        "Para un batido más espeso y helado, añade más cubitos de hielo o usa más fruta congelada.",
+        "Prueba diferentes tipos de leche para encontrar la que más te guste, como leche de coco para un toque tropical.",
+        "Si prefieres un batido vegano, usa yogur de coco o de almendra en lugar de yogur griego.",
+        "Para un sabor más intenso a mantequilla de maní, añade una cucharada extra de mantequilla de maní.",
+        "Decora tu batido con rodajas de plátano, un chorrito de miel o jarabe de arce, y una pizca de canela para una presentación atractiva.",
+        "Guarda las sobras en el refrigerador y agítalas bien antes de consumirlas nuevamente."
+    ]
+},{
+    "title": "Tropical Fruit Smoothie",
+    "ingredientes": [
+        "1 taza de piña fresca o congelada",
+        "1 taza de mango fresco o congelado",
+        "1 plátano maduro",
+        "1/2 taza de leche de coco",
+        "1/2 taza de jugo de naranja",
+        "1/2 taza de yogur griego",
+        "1 cucharada de miel o jarabe de arce (opcional, para endulzar)",
+        "Cubitos de hielo (opcional, para un batido más frío y espeso)"
+    ],
+    "preparacion": [
+        "Pela el plátano y córtalo en trozos.",
+        "Coloca la piña, el mango, el plátano, la leche de coco, el jugo de naranja y el yogur griego en una licuadora.",
+        "Si deseas un batido más dulce, añade la miel o el jarabe de arce.",
+        "Añade cubitos de hielo si prefieres un batido más frío y espeso.",
+        "Licua todos los ingredientes hasta obtener una mezcla suave y homogénea.",
+        "Prueba y ajusta el dulzor a tu gusto, añadiendo más miel o jarabe de arce si es necesario.",
+        "Vierte el batido en un vaso y sirve inmediatamente."
+     
+    ],
+    "tips": [
+        "Para un batido más cremoso, usa plátano y mango congelados. Simplemente corta las frutas en trozos y congélalas antes de hacer el batido.",
+        "Puedes añadir un puñado de espinacas frescas para incrementar el contenido de nutrientes sin afectar demasiado el sabor.",
+        "Si prefieres un batido más proteico, añade una cucharada de proteína en polvo de vainilla.",
+        "Añade una cucharada de semillas de chía o de lino para aumentar el contenido de fibra y omega-3.",
+        "Para un batido más espeso y helado, añade más cubitos de hielo o usa más fruta congelada.",
+        "Prueba diferentes tipos de leche para encontrar la que más te guste, como leche de almendra o de soja.",
+        "Si prefieres un batido vegano, usa yogur de coco en lugar de yogur griego.",
+        "Para un sabor tropical más intenso, añade un poco de extracto de coco o de piña.",
+        "Decora tu batido con trozos de fruta fresca, un chorrito de miel y una pizca de coco rallado para una presentación atractiva.",
+        "Guarda las sobras en el refrigerador y agítalas bien antes de consumirlas nuevamente."
+    ]
+},{
+    "title": "Green Smoothie",
+    "ingredientes": [
+        "1 taza de espinacas frescas",
+        "1 plátano maduro",
+        "1 manzana, sin corazón y cortada en trozos",
+        "1/2 aguacate",
+        "1 taza de leche de almendra (o cualquier otra leche que prefieras)",
+        "1/2 taza de yogur griego",
+        "1 cucharada de miel o jarabe de arce (opcional, para endulzar)",
+        "Cubitos de hielo (opcional, para un batido más frío y espeso)"
+    ],
+    "preparacion": [
+        "Pela el plátano y córtalo en trozos.",
+        "Coloca las espinacas, el plátano, la manzana, el aguacate, la leche de almendra y el yogur griego en una licuadora.",
+        "Si deseas un batido más dulce, añade la miel o el jarabe de arce.",
+        "Añade cubitos de hielo si prefieres un batido más frío y espeso.",
+        "Licua todos los ingredientes hasta obtener una mezcla suave y homogénea.",
+        "Prueba y ajusta el dulzor a tu gusto, añadiendo más miel o jarabe de arce si es necesario.",
+        "Vierte el batido en un vaso y sirve inmediatamente."
+     
+    ],
+    "tips": [
+        "Para un batido más cremoso, usa plátano y manzana congelados. Simplemente corta las frutas en trozos y congélalas antes de hacer el batido.",
+        "Puedes añadir un puñado de col rizada (kale) o acelga para aumentar el contenido de nutrientes.",
+        "Si prefieres un batido más proteico, añade una cucharada de proteína en polvo de vainilla o sin sabor.",
+        "Añade una cucharada de semillas de chía, de lino o de cáñamo para aumentar el contenido de fibra y omega-3.",
+        "Para un batido más espeso y helado, añade más cubitos de hielo o usa más fruta congelada.",
+        "Prueba diferentes tipos de leche para encontrar la que más te guste, como leche de coco para un toque tropical.",
+        "Si prefieres un batido vegano, usa yogur de coco o de almendra en lugar de yogur griego.",
+        "Para un sabor más intenso a verde, añade un poco de jugo de limón o de lima.",
+        "Decora tu batido con rodajas de manzana, un chorrito de miel o jarabe de arce, y una pizca de canela para una presentación atractiva.",
+        "Guarda las sobras en el refrigerador y agítalas bien antes de consumirlas nuevamente."
+    ]
+},{
+    "title": "Berry Smoothie",
+    "ingredientes": [
+        "1 taza de fresas frescas o congeladas",
+        "1 taza de arándanos frescos o congelados",
+        "1 plátano maduro",
+        "1 taza de yogur griego",
+        "1 taza de leche (puedes usar leche de almendra, soja, o cualquier otra leche que prefieras)",
+        "1 cucharada de miel o jarabe de arce (opcional, para endulzar)",
+        "1/2 cucharadita de extracto de vainilla (opcional)",
+        "Cubitos de hielo (opcional, para un batido más frío y espeso)"
+    ],
+    "preparacion": [
+        "Pela el plátano y córtalo en trozos.",
+        "Coloca las fresas, los arándanos, el plátano, el yogur griego y la leche en una licuadora.",
+        "Si deseas un batido más dulce, añade la miel o el jarabe de arce, y el extracto de vainilla.",
+        "Añade cubitos de hielo si prefieres un batido más frío y espeso.",
+        "Licua todos los ingredientes hasta obtener una mezcla suave y homogénea.",
+        "Prueba y ajusta el dulzor a tu gusto, añadiendo más miel o jarabe de arce si es necesario.",
+        "Vierte el batido en un vaso y sirve inmediatamente."
+     
+    ],
+    "tips": [
+        "Para un batido más cremoso, usa plátano y bayas congelados. Simplemente corta las frutas en trozos y congélalas antes de hacer el batido.",
+        "Puedes añadir un puñado de espinacas frescas para incrementar el contenido de nutrientes sin afectar demasiado el sabor.",
+        "Si prefieres un batido más proteico, añade una cucharada de proteína en polvo de vainilla.",
+        "Añade una cucharada de semillas de chía o de lino para aumentar el contenido de fibra y omega-3.",
+        "Para un batido más espeso y helado, añade más cubitos de hielo o usa más fruta congelada.",
+        "Prueba diferentes tipos de leche para encontrar la que más te guste, como leche de coco para un toque tropical.",
+        "Si prefieres un batido vegano, usa yogur de coco o de almendra en lugar de yogur griego.",
+        "Para un sabor más intenso a bayas, añade un poco de jugo de limón o de lima.",
+        "Decora tu batido con unas pocas bayas frescas, un chorrito de miel o jarabe de arce, y una pizca de granola para una presentación atractiva.",
+        "Guarda las sobras en el refrigerador y agítalas bien antes de consumirlas nuevamente."
+    ]
+},{
+    "title": "Avocado Banana Smoothie",
+    "ingredientes": [
+        "1 plátano maduro",
+        "1/2 aguacate",
+        "1 taza de leche (puedes usar leche de almendra, soja, o cualquier otra leche que prefieras)",
+        "1/2 taza de yogur griego",
+        "1 cucharada de miel o jarabe de arce (opcional, para endulzar)",
+        "1/2 cucharadita de extracto de vainilla (opcional)",
+        "Cubitos de hielo (opcional, para un batido más frío y espeso)"
+        ],
+    "preparacion": [
+        "Pela el plátano y córtalo en trozos.",
+        "Saca la pulpa del aguacate.",
+        "Coloca el plátano, el aguacate, la leche, el yogur griego, y la miel o jarabe de arce (si lo estás usando) en una licuadora.",
+        "Añade el extracto de vainilla si lo deseas.",
+        "Añade cubitos de hielo si prefieres un batido más frío y espeso.",
+        "Licua todos los ingredientes hasta obtener una mezcla suave y homogénea.",
+        "Prueba y ajusta el dulzor a tu gusto, añadiendo más miel o jarabe de arce si es necesario.",
+        "Vierte el batido en un vaso y sirve inmediatamente."
+     
+    ],
+    "tips": [
+        "Para un batido más cremoso, usa plátano congelado. Simplemente corta el plátano en trozos y congélalos antes de hacer el batido.",
+        "Puedes añadir un puñado de espinacas frescas para incrementar el contenido de nutrientes sin afectar demasiado el sabor.",
+        "Si prefieres un batido más proteico, añade una cucharada de proteína en polvo de vainilla.",
+        "Añade una cucharada de semillas de chía o de lino para aumentar el contenido de fibra y omega-3.",
+        "Para un batido más espeso y helado, añade más cubitos de hielo o usa más fruta congelada.",
+        "Prueba diferentes tipos de leche para encontrar la que más te guste, como leche de coco para un toque tropical.",
+        "Si prefieres un batido vegano, usa yogur de coco o de almendra en lugar de yogur griego.",
+        "Para un sabor más fresco, añade un poco de jugo de limón o de lima.",
+        "Decora tu batido con rodajas de plátano, un chorrito de miel o jarabe de arce, y una pizca de canela para una presentación atractiva.",
+        "Guarda las sobras en el refrigerador y agítalas bien antes de consumirlas nuevamente."
+    ]
+},{
+    "title": "Pineapple and Ginger Smoothie",
+    "ingredientes": [
+       "1 taza de piña fresca o congelada",
+        "1 plátano maduro",
+        "1/2 taza de yogur griego",
+        "1/2 taza de jugo de naranja",
+        "1/2 taza de leche de coco (o cualquier otra leche que prefieras)",
+        "1 cucharadita de jengibre fresco rallado",
+        "1 cucharada de miel o jarabe de arce (opcional, para endulzar)",
+        "Cubitos de hielo (opcional, para un batido más frío y espeso)"
+        ],
+    "preparacion": [
+        "Pela el plátano y córtalo en trozos.",
+        "Coloca la piña, el plátano, el yogur griego, el jugo de naranja, la leche de coco y el jengibre rallado en una licuadora.",
+        "Si deseas un batido más dulce, añade la miel o el jarabe de arce.",
+        "Añade cubitos de hielo si prefieres un batido más frío y espeso.",
+        "Licua todos los ingredientes hasta obtener una mezcla suave y homogénea.",
+        "Prueba y ajusta el dulzor a tu gusto, añadiendo más miel o jarabe de arce si es necesario.",
+        "Vierte el batido en un vaso y sirve inmediatamente."
+     
+    ],
+    "tips": [
+        "Para un batido más cremoso, usa plátano y piña congelados. Simplemente corta las frutas en trozos y congélalas antes de hacer el batido.",
+        "Puedes añadir un puñado de espinacas frescas para incrementar el contenido de nutrientes sin afectar demasiado el sabor.",
+        "Si prefieres un batido más proteico, añade una cucharada de proteína en polvo de vainilla.",
+        "Añade una cucharada de semillas de chía o de lino para aumentar el contenido de fibra y omega-3.",
+        "Para un batido más espeso y helado, añade más cubitos de hielo o usa más fruta congelada.",
+        "Prueba diferentes tipos de leche para encontrar la que más te guste, como leche de almendra o de avena.",
+        "Si prefieres un batido vegano, usa yogur de coco en lugar de yogur griego.",
+        "Para un sabor más intenso, añade un poco más de jengibre fresco rallado.",
+        "Decora tu batido con trozos de piña fresca, un chorrito de miel o jarabe de arce, y una pizca de coco rallado para una presentación atractiva.",
+        "Guarda las sobras en el refrigerador y agítalas bien antes de consumirlas nuevamente."
+    ]
+},{
+    "title": "Mango Raspberry Smoothie",
+    "ingredientes": [
+        "1 taza de mango fresco o congelado, cortado en trozos",
+        "1 taza de frambuesas frescas o congeladas",
+        "1 plátano maduro",
+        "1 taza de yogur griego",
+        "1 taza de leche (puedes usar leche de almendra, soja, o cualquier otra leche que prefieras)",
+        "1 cucharada de miel o jarabe de arce (opcional, para endulzar)",
+        "1/2 cucharadita de extracto de vainilla (opcional)",
+        "Cubitos de hielo (opcional, para un batido más frío y espeso)"
+        ],
+    "preparacion": [
+        "Pela el plátano y córtalo en trozos.",
+        "Coloca el mango, las frambuesas, el plátano, el yogur griego y la leche en una licuadora.",
+        "Si deseas un batido más dulce, añade la miel o el jarabe de arce, y el extracto de vainilla.",
+        "Añade cubitos de hielo si prefieres un batido más frío y espeso.",
+        "Licua todos los ingredientes hasta obtener una mezcla suave y homogénea.",
+        "Prueba y ajusta el dulzor a tu gusto, añadiendo más miel o jarabe de arce si es necesario.",
+        "Vierte el batido en un vaso y sirve inmediatamente."
+     
+    ],
+    "tips": [
+        "Para un batido más cremoso, usa plátano y frutas congelados. Simplemente corta el plátano y el mango en trozos y congélalos antes de hacer el batido.",
+        "Puedes añadir un puñado de espinacas frescas para incrementar el contenido de nutrientes sin afectar demasiado el sabor.",
+        "Si prefieres un batido más proteico, añade una cucharada de proteína en polvo de vainilla.",
+        "Añade una cucharada de semillas de chía o de lino para aumentar el contenido de fibra y omega-3.",
+        "Para un batido más espeso y helado, añade más cubitos de hielo o usa más fruta congelada.",
+        "Prueba diferentes tipos de leche para encontrar la que más te guste, como leche de coco para un toque tropical.",
+        "Si prefieres un batido vegano, usa yogur de coco o de almendra en lugar de yogur griego.",
+        "Para un sabor más intenso, añade un poco de jugo de limón o de lima.",
+        "Decora tu batido con unas pocas frambuesas frescas, un chorrito de miel o jarabe de arce, y una pizca de granola para una presentación atractiva.",
+        "Guarda las sobras en el refrigerador y agítalas bien antes de consumirlas nuevamente."
+    ]
+}
+
+]
