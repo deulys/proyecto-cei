@@ -54,14 +54,14 @@ button {
 }
 
 :root {
-  font-size: 16px;
+  font-size: 1rem;
   --opacity-menu: 0.89;
   --background-submenu: #3333338b;
   --transition-duration: 0.2s;
   --transition-delay: 0.2s;
   --color-white: #fff;
   --fondo-receta: #bfbfbf1a;
-  --size-title: 35px;
+  --size-title: 2.1875em;
 }
 
 html {
